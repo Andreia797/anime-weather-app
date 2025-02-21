@@ -22,9 +22,9 @@ Anime Weather App é um aplicativo simples que exibe a previsão do tempo de qua
 4. Veja as informações meteorológicas, incluindo temperatura, vento e condições climáticas.
 
 ## 🔑 Configuração da API
--Crie uma conta no OpenWeather.
--Gere uma chave de API gratuita.
--No arquivo script.js, substitua "441045b4509548bf330bdc80b568681b" pela sua chave de API.
+- Crie uma conta no OpenWeather.
+- Gere uma chave de API gratuita.
+- No arquivo script.js, substitua "441045b4509548bf330bdc80b568681b" pela sua chave de API.
 
 ## 📜 Licença
 Este projeto está sob a licença MIT.
